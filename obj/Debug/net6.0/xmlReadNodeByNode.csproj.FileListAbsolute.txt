@@ -1,0 +1,17 @@
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/xmlReadNodeByNode
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/xmlReadNodeByNode.deps.json
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/xmlReadNodeByNode.runtimeconfig.json
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/xmlReadNodeByNode.dll
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/xmlReadNodeByNode.pdb
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.csproj.AssemblyReference.cache
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.AssemblyInfoInputs.cache
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.AssemblyInfo.cs
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.csproj.CoreCompileInputs.cache
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.dll
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/refint/xmlReadNodeByNode.dll
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.pdb
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.genruntimeconfig.cache
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/ref/xmlReadNodeByNode.dll
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/bs302/Projects/xmlReadNodeByNode/xmlReadNodeByNode/obj/Debug/net6.0/xmlReadNodeByNode.csproj.CopyComplete
